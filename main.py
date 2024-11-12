@@ -9,10 +9,12 @@ import matplotlib.pyplot as plt
 
 
 # Definir onde está a planilha Excel 
-arquivo_excel = r'D:\\Caroline\\arquivos\\excelEmrpesa.xlsx'
+arquivo_excel = r'D:\\Caroline\\Analise-de-Dados\\arquivos\\excelEmrpesa.xlsx'
 
 # Definindo a planilha como um DataFrame a ser manipulado
-df = pd.read_excel(arquivo_excel)
+#df = pd.read_excel(arquivo_excel, sheet_name="Outubro - 2024")
+df = pd.read_excel(arquivo_excel, sheet_name="Novembro - 2024")
+
 
 def grafico_pizza_idades():
     # Contar quantas vezes cada idade se repete
