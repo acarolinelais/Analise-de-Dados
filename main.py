@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 # Definir onde está a planilha Excel 
-arquivo_excel = r'D:\\Caroline\\Analise-de-Dados\\data\\atendimentos.xlsx'
+arquivo_excel = r'D:\\Caroline\\Analise-de-Dados\\arquivos\\atendimentos.xlsx'
 
 # Definindo a planilha como um DataFrame a ser manipulado
 #df = pd.read_excel(arquivo_excel, sheet_name="Outubro - 2024")
