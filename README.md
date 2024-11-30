@@ -32,3 +32,16 @@ Certifique-se de ter o Python 3.x instalado em sua máquina e instale as bibliot
 
 ```bash
 pip install pandas matplotlib tabulate openpyxl
+```
+
+## Contribuidores
+
+**Caroline Laís** </br>
+**GitHub:** acarolinelais </br>
+
+**André Azevedo** </br>
+**GitHub:** andreeviictor1 </br>
+
+## Licença
+
+Este projeto foi desenvolvido para fins acadêmicos e é livre para uso e modificação.
